@@ -1,0 +1,27 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_ML"
+
+generations:
+  - name: "W163 First Generation"
+    start_year: 1997
+    end_year: 2005
+    description: "First generation M-Class (W163) was a body-on-frame SUV. The ML55 AMG was introduced in 2000 as the first high-performance AMG variant of the M-Class, featuring a 5.4L V8 engine producing 342 hp. It was produced until 2003."
+    platform_code: "W163"
+
+  - name: "W164 Second Generation"
+    start_year: 2005
+    end_year: 2011
+    description: "Second generation M-Class (W164) moved to a unibody platform. The ML63 AMG was introduced at the 2006 North American International Auto Show as a 2007 model, featuring a 6.2L M156 V8 engine producing 503 hp, handcrafted by AMG in Germany."
+    platform_code: "W164"
+
+  - name: "W166 Third Generation"
+    start_year: 2011
+    end_year: 2019
+    description: "Third generation M-Class (W166) was introduced in 2011 as a 2012 model. The ML63 AMG continued with a 5.5L biturbo V8 engine (M157). In 2015, the model was renamed GLE as part of Mercedes' new naming strategy, becoming the GLE 63 AMG."
+    platform_code: "W166"
+
+  - name: "W167 Fourth Generation"
+    start_year: 2018
+    end_year: null
+    description: "Fourth generation GLE (W167) was unveiled at the 2018 Paris Motor Show. The AMG GLE 63 variants feature a 4.0L biturbo V8 engine with EQ Boost mild hybrid technology, producing 571 hp in standard form and 603 hp in S form."
+    platform_code: "W167"
